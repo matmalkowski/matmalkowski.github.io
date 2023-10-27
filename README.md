@@ -5,7 +5,9 @@
 
 ## Summary
 
+<p style="font-size: 1.12em;">
 Effective hands-on leader with over 12 years of experience in successful software development. Relentless problem solver applying analytical, design & technical skills to supervise entire dev lifecycle. Solid experience with multiple different languages & frameworks, working across entire tech stack, both with customer facing products as well as internal tooling. Motivated to explore new technologies, to learn and to overcome unique problems and challenges.
+</p>
 
 ## Working Experience
 
