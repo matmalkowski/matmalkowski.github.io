@@ -18,7 +18,7 @@ Effective hands-on leader with over 12 years of experience in successful softwar
 - Proven record of recruiting and building new team - member of JS hiring pipeline & probation evaluation.
 - Working with engineering manager community within Klarna on building better performance review & promotion process
 - Built project roadmap for a rewrite of team's core product - with help of Product Owner, defined priorities and lead the team to successful completion of 6 months project. Co-authored new design, that implementation of lead to reduction of ~30% of tech debt and due to simplification of internal logic of the SDK, increase in customer user scenarios coverage by 10%.
-- Driving architecture redesign of services used within the group (4 teams) - unification of duplicated microservices & client side code, with the goal of saving ~12.000$/month in operational costs and group velocity of 40%.
+- Driving architecture redesign of services used within the group (4 teams) - unification of duplicated microservices & client side code, with the goal of saving ~12.000$/month in operational costs and increase of group velocity by 40%.
 
 <p style="margin: 0 0 0 40px;">
 <strong>Skills:</strong> People Management · Engineering Leadership · Project Management · Leadership · System design & architecture · React Native, TypeScript & node.js stack
